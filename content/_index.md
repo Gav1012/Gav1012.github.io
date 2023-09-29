@@ -53,27 +53,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Frontend Developer
+          company: SpaceLab
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Remote
+          date_start: '2023-06-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Implemented web pages and redirects to work alongside new additions and features
+              * Redesigned existing React frontend UI components
+              * Collaborated closely with colleagues during daily and weekly periods to ensure code quality and adhering to company standards
+        - title: Grader/Reader
+          company: University of California Santa Cruz
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Santa Cruz, California
+          date_start: '2022-09-01'
+          date_end: '2022-12-31'
+          description: Graded CSE 120 Computer Architecture student homework, quizzes, and tests and left detailed notes of what students got wrong and how to improve or solve questions in the future.
     design:
       columns: '2'
   # - block: collection
@@ -120,8 +120,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Websites
+          tag: Websites
         - name: Other
           tag: Demo
     design:
@@ -129,15 +129,15 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+      flip_alt_rows: true
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
   - block: contact
     id: contact
     content:
