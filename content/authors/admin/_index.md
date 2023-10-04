@@ -14,13 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: UCSC Computer Science Graduate
+role: Computer Science Graduate
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Web Development
+  - Software Engineering
 
 # Education to show in About widget
 education:
@@ -57,5 +56,9 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hey there, I'm Gavin! I'm a graduate from University of California Santa Cruz with a 
+Bachelor's in Computer Science with a majority of my software development experience revolving 
+around full stack web applications. I am currently volunteering for SpaceLab as a front 
+end developer providing my experience and honing my skills. Currently I am looking at
+learning more about cloud development and AI related projects.
 {style="text-align: justify;"}
