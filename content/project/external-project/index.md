@@ -1,8 +1,8 @@
 ---
 title: Facebook Marketplace
-summary: Recreation of the FaceBook Marketplace (use external project)
+summary: Final assignment for Web Applications course, group project about creating a RESTful Facebook marketplace
 tags:
-  - Demo
+  - Websites
 date: "2021-11-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
