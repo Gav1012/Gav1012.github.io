@@ -119,6 +119,11 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: gavin.poley@gmail.com
       phone: (951)-428-7170
+      contact_links:
+      - icon: github
+        icon_pack: fab
+        name: My GitHub
+        link: "https://github.com/Gav1012"
     design:
       columns: '2'
 ---
