@@ -27,20 +27,15 @@ sections:
         - title: Frontend Developer
           company: SpaceLab
           company_url: ''
-          company_logo: org-gc
+          company_logo: spacelab
           location: Remote
           date_start: '2023-06-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Implemented web pages and redirects to work alongside new additions and features
-              * Redesigned existing React frontend UI components
-              * Collaborated closely with colleagues during daily and weekly periods to ensure code quality and adhering to company standards
+          description: JavaScript, React.js, Node.js, Bootstrap
         - title: Grader/Reader
           company: University of California Santa Cruz
           company_url: ''
-          company_logo: org-x
+          company_logo: uc-seal
           location: Santa Cruz, California
           date_start: '2022-09-01'
           date_end: '2022-12-31'
