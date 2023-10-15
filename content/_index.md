@@ -31,7 +31,7 @@ sections:
           location: Remote
           date_start: '2023-06-01'
           date_end: ''
-          description: JavaScript, React.js, Node.js, Bootstrap
+          description: JavaScript - React.js - Node.js - Bootstrap
         - title: Grader/Reader
           company: University of California Santa Cruz
           company_url: ''

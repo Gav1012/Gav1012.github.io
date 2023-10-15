@@ -45,9 +45,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/Gavin_Poley_Resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/Gavin_Poley_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -56,9 +56,9 @@ email: ''
 highlight_name: true
 ---
 
-Hey there, I'm Gavin! I'm a graduate from University of California Santa Cruz with a 
+Hey there, I'm Gavin! I'm a software developer from University of California Santa Cruz with a 
 Bachelor's in Computer Science with a majority of my software development experience revolving 
 around full stack web applications. I am currently volunteering for SpaceLab as a front 
 end developer providing my experience and honing my skills. Currently I am looking at
-learning more about cloud development and AI related projects.
+learning more about topics relating to cloud development and machine learning.
 {style="text-align: justify;"}
