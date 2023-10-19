@@ -20,6 +20,7 @@ role: Computer Science Graduate
 interests:
   - Web Development
   - Software Engineering
+  - Machine Learning
 
 # Education to show in About widget
 education:
@@ -58,7 +59,11 @@ highlight_name: true
 
 Hey there, I'm Gavin! I'm a software developer from University of California Santa Cruz with a 
 Bachelor's in Computer Science with a majority of my software development experience revolving 
-around full stack web applications. I am currently volunteering for SpaceLab as a front 
-end developer providing my experience and honing my skills. Currently I am looking at
-learning more about topics relating to cloud development and machine learning.
+around developing full stack web applications. I am currently volunteering for SpaceLab as a front 
+end developer providing my experience as well as improving my skills with front-end development. 
+Currently I have been looking into learning more about topics relating to cloud development, AI, 
+and machine learning.
+\
+\
+Skills:  Python,  JavaScript,  C,  C++,  React,  HTML,  Node,  SQL
 {style="text-align: justify;"}
